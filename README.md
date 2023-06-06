@@ -7,3 +7,5 @@ Project_File.folder:
 -Volume _Visual_Data_Ridhwaan.ipnyb 
 -Power Point Presentation
 -Sectors_Data_Ella.ipnybb
+-NYSE.CSV
+-NYSE_Download.CSV
